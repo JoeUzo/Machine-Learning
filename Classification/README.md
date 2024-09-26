@@ -156,7 +156,4 @@ plt.legend()
 plt.show()
 ```
 
-This README.md provides a structured overview of the notebook and includes instructions on how to run it, as well as a table of contents for easy navigation.
-
-
 
